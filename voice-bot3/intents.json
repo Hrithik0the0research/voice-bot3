@@ -1,0 +1,58 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["Hey","Hello","Hi","Good Day"],
+    "responses":["Hello","Hey","How can i help you?","What can i do for you?","hi beautifull","hola people"]
+    },
+    {"tag":"goodbye",
+    "patterns":["See you","Thank you"],
+    "responses":["Bye Bye","Your most welcome","Thank you","see you soon my friend"]
+    },
+    {"tag":"Help",
+    "patterns":["I need your help","Can you help me?","I want your help","Help is needed"],
+    "responses":["Yes sure i will help you","What is your problem?","Don't worry i will help you","Tell me how can i help you"]
+    },
+    {"tag":"About",
+    "patterns":["Tell me about JIS University","Tell me something about JIS University","What do you know about JIS University?","What you know about JIS University?","Tell me everything about JIS University","I want to know everything about JIS University"],
+    "responses":["To know about JIS University, Please do visit our official website www.jisuniversity.ac.in"]
+    },
+    {"tag":"Love",
+    "patterns":["I have no one to love me","Everything ends for me","Why no one loves me?","I am not happy ","who loves me","I need love","pls love me"],
+    "responses":["Everything will fine don't worry","Your family loves you and your friends","sometimes it is good to love yourself"," you should love yourself"]
+    },
+    {"tag":"feeling",
+    "patterns":["I have a bad feeling","I want to feel good","is thay okay to be felt bad?"],
+    "responses":["you should watches films","films make your mood better","why you feel bad is that something bothering you"]
+    },
+    {"tag":"contact",
+    "patterns":["I want new contact","want to call someone","I want to call you"],
+    "responses":["you call me at any time","call me on 6296821825"]
+    },
+    {"tag":"give up",
+    "patterns":["I give up","I can't win","I am looser","why I can't win","I am lossing"],
+    "responses":["No, one day you will win just keep patience and don't give up","you're a winner champ, yes it is true sometimes life doesnot go well but we have to fight for our dreams"]
+    },
+    {"tag":"anxiety",
+    "patterns":["feeling bad","feeling anxiety","doesnot feel well","i need help or i shall die"],
+    "responses":["What can I do to help you?","Im here for you. Youre not alone.","Do you want to do something to take your mind off of things","Youll get over it./Snap out of it"]
+    },
+    {"tag":"suicide",
+    "patterns":["I want to suicide","I have no one","I wanna kill myself","it is end for me","I am useless"],
+    "responses":["dont do that","think about your family","what about your pet think about him","then is everything solved","life is beautiful if die early you will miss this","if you give up now, beauty part will be gone"]
+    },
+    {"tag":"deppression",
+    "patterns":["Can I change my feeling of being worthless to everyone?","Im going through some things with my feelings and myself","I barely sleep and I do nothing but think about how I'm worthless and how I shouldn't be here."],
+    "responses":["you're not a usesless","you are bigger than anythink","never give up I know you can do it","you have the skills","dont think too much","say yourself you can do it","be a king"]
+    },
+    {"tag":"bad feeling",
+    "patterns":["I am feeling bad","I have a bad feeling","I am confused and feeling bad"],
+    "responses":["why you feeling bad, is something bother you? you can tell me freely","If something bother you, just take a deep breath and try to find out the solutions or just don't think too much."]
+    },
+    {"tag":"fever",
+    "patterns":["I have fever","my fever becomes high","I have cough so much","fever is increasing"],
+    "responses":["You should take Paracetamol may be taken every 4 to 6 hours. Leave at least 4 hours between doses. and remeber Do not take more than four doses in 24 hours.","if you're have a more fever Contact your healthcare professional if your symptoms get worse or do not improve "]
+    },
+    {"tag":"low",
+    "patterns":["I am alwasy feeling low","I feel low","low feeling makes me cursed"],
+    "responses":["You dont have to feel low and for that you should talk to your dad","Low feeling means youre lack of confidence, don't worry one day you will get what you want, believe on yourself."]
+    }
+    ]}
